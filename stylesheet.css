@@ -1,0 +1,173 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#wrapper {
+    position: relative;
+    width: auto;
+    margin: auto;
+    max-width: 1800px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+}
+
+#navblock {
+    position:fixed;
+    width: 25%;
+    height: 100%;
+}
+
+#nav {
+    margin: 15%;
+    margin-top: 25%;
+    font-size: .8em;
+    list-style-type: none;
+    line-height: 3;
+}
+
+a:link, a:visited {
+    color: black;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+    font-size: .8em;
+}
+
+a:hover, a:active {
+    color: grey;
+}
+
+#bodyblock {
+    margin-left: 25%;
+    width: 75%;
+    height: 100%;
+    float: left;
+}
+
+#bodyblock1 {
+    margin-left: 25%;
+    width: 72%;
+    height: 100%;
+}
+
+#projectblock {
+    margin: 5%;
+    width: 40%;
+    float: left;
+}
+
+#workimage {
+    width: 100%;
+}
+
+#imagehalf {
+    width: 50%;
+    float: left;
+}
+
+#imagevert {
+    width: 40%;
+    padding-left: 5%;
+    padding-right: 5%;
+    float: left;
+}
+
+#imagevert1 {
+    width: 40%;
+    padding-top: 8.8%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+#imagevert2 {
+    width: 20%;
+    float: left;
+}
+
+#imagethird {
+    width: 33.333333%;
+    float: left;
+}
+
+#logotext {
+    margin: 0%;
+    width: 100%;
+}
+
+#halfpic {
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    width: 95%;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    
+    margin-bottom: 5%;
+    font-weight: 700;
+}
+
+h2 {
+        margin-top: 1%;
+        margin-bottom: 3%;
+        font-size: .8em;  
+        font-weight: 600;
+}
+
+h3 {
+        margin-bottom: 3%;
+        font-size: .8em;
+        font-weight: 600;
+}
+
+p {
+    margin-bottom: 7%;
+    font-size: .8em;
+    font-weight: 400;
+}
+
+#fullbar {
+    margin-top:5%;
+    width: 100%;
+    height: 100%;
+    float: left;
+}
+
+#halfie {
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+#textbox {
+    width: 69%;
+    height: 100%;
+    float: left;
+}
+
+#onethird {
+    width: 33.333%;
+    height: 100%;
+    float: left;
+}
+
+#twothird {
+    width: 66.66666667%;
+    height: 100%;
+    float: left;
+}
+
+#twothird1 {
+    margin: 5%;
+    width: 66.66666667%;
+    height: 100%;
+    float: left;
+}
+
+#blackbar {
+    height: 2px;
+    width: 111px;
+    background-color: black;
+}
