@@ -19,12 +19,20 @@
     height: 100%;
 }
 
+
 #nav {
     margin: 15%;
     margin-top: 25%;
     font-size: .8em;
     list-style-type: none;
     line-height: 3;
+}
+
+#icon {
+    margin: 15%;
+    margin-top: 90%;
+    padding-left: 9%;
+
 }
 
 a:link, a:visited {
@@ -90,6 +98,10 @@ a:hover, a:active {
 #imagethird {
     width: 33.333333%;
     float: left;
+}
+
+#iconimage {
+    width: 18%;
 }
 
 #logotext {
@@ -178,6 +190,18 @@ p {
     background-color: black;
 }
 
+#blackbar1 {
+    height: 2px;
+    width: 50px;
+    background-color: black;
+}
+
+#blackbar2 {
+    height: 2px;
+    margin-top: 2%;
+    width: 50px;
+    background-color: black;
+}
 
 .container {
     position: relative;
