@@ -103,6 +103,14 @@ a:hover, a:active {
     width: 100%;
 }
 
+#squaresingle {
+    margin: 0%;
+    width: 80%;
+    display: block;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
 #halfpic {
     margin-left: 2.5%;
     margin-right: 2.5%;
